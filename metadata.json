@@ -1,0 +1,6 @@
+{
+  "name": "Hoops Edge",
+  "description": "NBA and WNBA predictions using stats",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
